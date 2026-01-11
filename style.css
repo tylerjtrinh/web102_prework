@@ -19,8 +19,21 @@ body {
     margin-top: -10px;
 }
 
+.navbar {
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    text-decoration: none;
+}
+
 .stats-container {
     display: flex;
+    align-items: center;
+}
+
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0px 0px 30px lightblue;
 }
 
 .stats-card {
