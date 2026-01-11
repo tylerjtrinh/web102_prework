@@ -22,9 +22,10 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+![preworkWebsite](https://github.com/user-attachments/assets/d6775bc1-e390-46c5-8b40-671e69e4ce40)
 
 <img src='https://imgur.com/a/web102-prework-gif-IVCcvp5' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+https://imgur.com/a/web102-prework-gif-IVCcvp5
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with imgur
 <!-- Recommended tools:
